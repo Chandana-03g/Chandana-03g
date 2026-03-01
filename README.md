@@ -1,4 +1,7 @@
-## Hi there 👋
+ ## Hi, I'm Chandana 👋
+
+Full-Stack Developer passionate about building scalable and user-friendly web applications.
+
 
 <!--
 **Chandana-03g/Chandana-03g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
