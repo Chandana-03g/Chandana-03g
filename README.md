@@ -2,8 +2,9 @@
 
 Full-Stack Developer passionate about building scalable and user-friendly web applications.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [chandana03g@gmail.com](mailto:chandana03g@gmail.com)
+Location: Mangaluru
+
+Mail Id: [chandana03g@gmail.com](mailto:chandana03g@gmail.com)
 
 Skills
 <p align="left">
